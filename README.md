@@ -8,4 +8,4 @@ Features
 * Undo/redo
 * Saving/loading
 
-Written for WSU CptS 360.
+Written for WSU CptS 321.
